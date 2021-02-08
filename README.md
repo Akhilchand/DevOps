@@ -1,2 +1,2 @@
 # DevOps
-My DevOps leaning
+My DevOps learning
